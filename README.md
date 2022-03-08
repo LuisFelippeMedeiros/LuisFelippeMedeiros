@@ -1,7 +1,7 @@
 ##
 
 <div align="center">
-    <h3>Me chamo, Luís Felippe, sejam bem vindos!
+    <h3>Me chamo Luís Felippe, sejam bem vindos!
   </div>
   <br>
   <br>
