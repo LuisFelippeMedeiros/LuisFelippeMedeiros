@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/LuisFelippeMedeiros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelippemedeiros&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="280em" src="https://media.discordapp.net/attachments/380948663729389589/951326543571992656/Ativo_1-depositphotos-bgremover.png"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
