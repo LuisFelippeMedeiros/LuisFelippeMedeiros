@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/LuisFelippeMedeiros">
-  <img height="280em" src="https://fv9-3.failiem.lv/down.php?i=yjg72e24d&view"/>
+  <img height="280em" src="https://media.discordapp.net/attachments/1011337094632849540/1011337154934349954/Ativo_1-depositphotos-bgremover.png?width=462&height=468"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
